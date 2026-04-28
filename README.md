@@ -23,7 +23,7 @@
 
 # GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassx123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="465" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassxribeiroxzz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="465" />  
 
  
 
