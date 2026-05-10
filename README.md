@@ -52,36 +52,12 @@ objetivo: Construir soluções criativas e de alto impacto
 
 <div align="center">
   <a href="https://github.com/lucasribeiroxzz">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasribeiroxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasribeiroxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
   </a>
   <a href="https://github.com/lucasribeiroxzz">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=6" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=8" />
   </a>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/lucasribeiroxzz">
-    <img src="https://streak-stats.demolab.com?user=lucasribeiroxzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
-  </a>
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasribeiroxzz/lucasribeiroxzz/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasribeiroxzz/lucasribeiroxzz/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasribeiroxzz/lucasribeiroxzz/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-> ⚠️ **Para ativar a cobra**, veja o [guia de setup](#-como-ativar-a-animação-da-cobra) no final.
 
 ---
 
@@ -104,51 +80,3 @@ objetivo: Construir soluções criativas e de alto impacto
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=footer" />
-
----
-
-<details>
-<summary>🐍 Como ativar a animação da cobra</summary>
-
-### Passo a passo:
-
-1. No seu repositório `lucasribeiroxzz/lucasribeiroxzz`, vá em **Settings** → **Actions** → **General**
-2. Em **Workflow permissions**, selecione **Read and write permissions** e salve
-3. Crie o arquivo `.github/workflows/snake.yml` com este conteúdo:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: lucasribeiroxzz
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. Vá na aba **Actions** do repositório e execute manualmente o workflow **Generate Snake**
-5. Pronto! A cobra vai aparecer no seu README 🎉
-
-</details>
