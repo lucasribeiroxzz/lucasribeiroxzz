@@ -51,12 +51,17 @@ objetivo: Construir soluções criativas e de alto impacto
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/lucasribeiroxzz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=lucasribeiroxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-  </a>
-  <a href="https://github.com/lucasribeiroxzz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=8" />
-  </a>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucasribeiroxzz&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasribeiroxzz&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasribeiroxzz&theme=tokyonight&utcOffset=-3" />
+</div>
+
+<div align="center">
+  <img width="660" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasribeiroxzz&theme=tokyonight" />
 </div>
 
 ---
