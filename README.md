@@ -1,16 +1,14 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=header" />
+
 <div align="center">
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+Lucas+Ribeiro;Desenvolvedor+Full+Stack+%7C+Estudante+ADS" alt="Typing SVG" />
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Ribeiro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+ADS)](https://git.io/typing-svg)
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=lucasribeiroxzz&label=Visitantes&color=A960FF&style=for-the-badge" alt="Profile views" />
+<br>
+
+[![](https://komarev.com/ghpvc/?username=lucasribeiroxzz&label=Visitantes&color=A960FF&style=flat-square)](https://github.com/lucasribeiroxzz)
 
 </div>
-
----
 
 ## 🧑‍💻 Sobre mim
 
@@ -18,8 +16,7 @@
 nome: Lucas Ribeiro
 localização: Brasil 🇧🇷
 formação: Análise e Desenvolvimento de Sistemas (ADS)
-foco_atual: Desenvolvimento Full Stack
-aprendendo: Novas tecnologias e frameworks modernos
+foco: Desenvolvimento Full Stack
 objetivo: Construir soluções criativas e de alto impacto
 ```
 
@@ -35,20 +32,17 @@ objetivo: Construir soluções criativas e de alto impacto
 
 <div align="center">
 
-### Linguagens
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,lua,html,css&theme=dark&perline=6" alt="Languages" />
-</a>
+**Linguagens**
 
-### Ferramentas & Tecnologias
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,nodejs,npm&theme=dark&perline=6" alt="Tools" />
-</a>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,lua,html,css&theme=dark" />
 
-### Estudando
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,typescript,docker,linux&theme=dark&perline=4" alt="Studying" />
-</a>
+**Ferramentas & Tecnologias**
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,mysql,nodejs,npm&theme=dark" />
+
+**Estudando**
+
+<img src="https://skillicons.dev/icons?i=react,typescript,docker,linux&theme=dark" />
 
 </div>
 
@@ -57,17 +51,20 @@ objetivo: Construir soluções criativas e de alto impacto
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasribeiroxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&ring_color=A960FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-
+  <a href="https://github.com/lucasribeiroxzz">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasribeiroxzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/lucasribeiroxzz">
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiroxzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=c9d1d9&langs_count=6" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lucasribeiroxzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
-
+  <a href="https://github.com/lucasribeiroxzz">
+    <img src="https://streak-stats.demolab.com?user=lucasribeiroxzz&theme=tokyonight&hide_border=true&background=0D1117&stroke=A960FF&ring=A960FF&fire=FF6B6B&currStreakLabel=A960FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+  </a>
 </div>
 
 ---
@@ -84,7 +81,7 @@ objetivo: Construir soluções criativas e de alto impacto
 
 </div>
 
-> ⚠️ **Para ativar a animação da cobra**, siga o [guia de setup](#-como-ativar-a-animação-da-cobra) abaixo.
+> ⚠️ **Para ativar a cobra**, veja o [guia de setup](#-como-ativar-a-animação-da-cobra) no final.
 
 ---
 
@@ -92,7 +89,7 @@ objetivo: Construir soluções criativas e de alto impacto
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN-AQUI)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiroxzz)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ribeiroxzz)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasribeiroxzz)
 
@@ -104,11 +101,9 @@ objetivo: Construir soluções criativas e de alto impacto
 
 ### 💡 *"O código é poesia escrita em lógica."*
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=100&section=footer" width="100%" />
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=footer" />
 
 ---
 
