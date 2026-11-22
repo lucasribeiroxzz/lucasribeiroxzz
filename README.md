@@ -1,8 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=140&section=header&text=Lucas%20Ribeiro&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descSize=18&descAlignY=58" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Ribeiro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+ADS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+
+<br>
+
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-lhubff.com.br-A960FF?style=for-the-badge)](https://lhubff.com.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiroxzz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ribeiroxzz)
 
 <br>
 
@@ -10,20 +16,16 @@
 
 </div>
 
-## 🧑‍💻 Sobre mim
+---
 
-```yaml
-nome: Lucas Ribeiro
-localização: Brasil 🇧🇷
-formação: Análise e Desenvolvimento de Sistemas (ADS)
-foco: Desenvolvimento Full Stack
-objetivo: Construir soluções criativas e de alto impacto
-```
+## 👋 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 💻 Experiência em **Python**, **JavaScript** e **Java**
-- 🚀 Foco em aplicações web completas, do front ao back
-- 🌱 Aprofundando em **React**, **TypeScript** e **Docker**
+Sou desenvolvedor **Full Stack** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Construo aplicações web completas, do front-end ao back-end, com foco em **segurança**, **performance** e boa experiência de uso.
+
+- 🛒 Desenvolvo plataformas reais de **e-commerce e pagamentos** (PIX, carteira digital, APIs REST)
+- 🔐 Aplico boas práticas de segurança: autenticação, rate limiting, CSRF, XSS e Helmet
+- 🌱 Aprofundando em **React**, **TypeScript**, **Next.js** e **Docker**
+- 🌐 Meu portfólio: **[lhubff.com.br](https://lhubff.com.br)**
 
 ---
 
@@ -31,57 +33,36 @@ objetivo: Construir soluções criativas e de alto impacto
 
 <div align="center">
 
-**Back-end**
-<img src="https://skillicons.dev/icons?i=python,java,nodejs,express&theme=dark" />
-
-**Front-end**
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,html,css&theme=dark" />
-
-**Banco & Ferramentas**
-<img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,git,github,vscode,linux&theme=dark" />
+| | |
+|:--|:--|
+| **Linguagens** | <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /> |
+| **Back-end** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" /> |
+| **Banco de dados** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" /> |
 
 </div>
 
 ---
 
-## 💼 Projetos em destaque
-
-### [Olimpo Pay](https://github.com/lucasribeiroxzz/gateway-src) · Gateway de Pagamentos
-Plataforma de carteira digital e pagamentos via PIX, com API REST autenticada por API Key, painel administrativo, sistema de saques com aprovação e camadas de segurança (rate limiting, CSRF, XSS, Helmet).
-`Node.js` · `Express` · `EJS` · `API REST`
-
-### [LHUB](https://github.com/lucasribeiroxzz/lhub-site-src) · E-commerce Full Stack
-Plataforma de e-commerce completa construída com Next.js 15 e TypeScript: carteira com depósito via PIX, sistema de cupons e afiliados, login com Discord OAuth2, painel admin e API pública versionada.
-`Next.js 15` · `TypeScript` · `Tailwind` · `Prisma`
-
----
-
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
 
 <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasribeiroxzz&theme=radical" />
 
-</div>
+<br>
 
-<div align="center">
-
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=radical" />
-<img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasribeiroxzz&theme=radical" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucasribeiroxzz&theme=radical" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasribeiroxzz&theme=radical" />
 
 </div>
 
 ---
 
-## 📫 Conecte-se comigo
+## 📫 Vamos conversar?
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasribeiroxzz)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ribeiroxzz)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucasribeiroxzz)
-
-</div>
+Confira meu **[portfólio](https://lhubff.com.br)** ou me chame no [LinkedIn](https://www.linkedin.com/in/lucasribeiroxzz).
 
 ---
 
@@ -91,4 +72,4 @@ Plataforma de e-commerce completa construída com Next.js 15 e TypeScript: carte
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A960FF&height=100&section=footer" />
