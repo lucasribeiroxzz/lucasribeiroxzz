@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Lucas+Ribeiro+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Estudante+de+ADS)](https://git.io/typing-svg)
 
 <br>
 
@@ -20,11 +20,10 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor **Full Stack** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)**. Construo aplicações web completas, do front-end ao back-end, com foco em **segurança**, **performance** e boa experiência de uso.
-
-- 🛒 Desenvolvo plataformas reais de **e-commerce e pagamentos** (PIX, carteira digital, APIs REST)
-- 🔐 Aplico boas práticas de segurança: autenticação, rate limiting, CSRF, XSS e Helmet
-- 🌱 Aprofundando em **React**, **TypeScript**, **Next.js** e **Docker**
+- 🙋‍♂️ Lucas Ribeiro, **19 anos**
+- 📍 Moro no **Brasil** 🇧🇷
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
+- 💻 Desenvolvedor **Full Stack**
 - 🌐 Meu portfólio: **[lhubff.com.br](https://lhubff.com.br)**
 
 ---
